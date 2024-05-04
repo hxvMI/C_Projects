@@ -1,0 +1,6 @@
+User ID: 1000
+Group ID: 1000
+Groups: hxv adm dialout cdrom floppy sudo audio dip video plugdev netdev
+Shell Path: /bin/bash
+Home Directory Path: /home/hxv
+Path Enviroment Variable: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files/Common Files/Oracle/Java/javapath:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files/dotnet/:/mnt/c/Users/vhash/AppData/Local/Microsoft/WindowsApps:/mnt/c/Program Files/JetBrains/IntelliJ IDEA Community Edition 2022.3.2/bin:/mnt/c/Users/vhash/AppData/Local/GitHubDesktop/bin:/mnt/c/Users/vhash/AppData/Local/Programs/Microsoft VS Code/bin:/snap/bin

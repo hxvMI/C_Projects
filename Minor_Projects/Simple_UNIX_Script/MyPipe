@@ -1,0 +1,3 @@
+used: ls -A | wc -l > MyPipe
+
+4

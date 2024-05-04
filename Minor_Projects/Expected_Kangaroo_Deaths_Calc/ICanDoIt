@@ -1,0 +1,10 @@
+Q1
+
+1)	^\s*\bint\s+[a-zA-Z]\w*(\s*,\s*[a-zA-Z]\w*)*\s*;
+
+
+2)	 head -n 12 this_file | tail -n 8 | grep '\s*\bC[sS][cC][0-9][0-9][0-9]\s*\b'
+
+
+3)      cp ../Ticker.c . ; gcc -o Ticker -Wall Ticker.c
+
